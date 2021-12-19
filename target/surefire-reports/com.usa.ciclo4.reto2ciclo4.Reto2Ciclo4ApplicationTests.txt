@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.usa.ciclo4.reto2ciclo4.Reto2Ciclo4ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.676 s - in com.usa.ciclo4.reto2ciclo4.Reto2Ciclo4ApplicationTests
